@@ -1,0 +1,3 @@
+in this sum algortihm of distinct element i  used the boolen variables to return if the input elements table ar ditinct if it is so to make the sum of thouse outputs together .
+
+in the second algorithm i used a procedure inorder to return if tow tables are orthogonal or not if the ps varaiable is equal to zero then it will return that they are orthogonal
